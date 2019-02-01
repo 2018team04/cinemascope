@@ -1,0 +1,149 @@
+movieid,title,genres,movie_logo
+1,Toy Story (1995),Animation|Adventure|Comedy,Toy Story (1995).jpg
+2,Jumanji (1995),Action|Adventure|Family,Jumanji (1995).jpg
+3,Grumpier Old Men (1995),Comedy|Romance,Grumpier Old Men (1995).jpg
+4,Waiting to Exhale (1995),Comedy|Drama|Romance,Waiting to Exhale (1995).jpg
+5,Father of the Bride Part II (1995),Comedy|Family|Romance,Father of the Bride Part II (1995).jpg
+6,Heat (1995),Action|Crime|Drama,Heat (1995).jpg
+7,Sabrina (1995),Comedy|Drama,Sabrina (1995).jpg
+8,Sudden Death (1995),Action|Crime|Thriller,Sudden Death (1995).jpg
+9,GoldenEye (1995),Action|Adventure|Thriller,GoldenEye (1995).jpg
+10,The American President (1995),Comedy|Drama|Romance,The American President (1995).jpg
+11,Dracula: Dead and Loving It (1995),Comedy|Fantasy|Horror,Dracula: Dead and Loving It (1995).jpg
+12,Balto (1995),Animation|Adventure|Drama,Balto (1995).jpg
+13,Nixon (1995),Biography|Drama|History,Nixon (1995).jpg
+14,Cutthroat Island (1995),Action|Adventure|Comedy,Cutthroat Island (1995).jpg
+15,Casino (1995),Crime|Drama,Casino (1995).jpg
+16,Sense and Sensibility (1995),Drama|Romance,Sense and Sensibility (1995).jpg
+17,Four Rooms (1995),Comedy,Four Rooms (1995).jpg
+18,Ace Ventura: When Nature Calls (1995),Adventure|Comedy|Crime,Ace Ventura: When Nature Calls (1995).jpg
+19,Money Train (1995),Action|Comedy|Crime,Money Train (1995).jpg
+20,Get Shorty (1995),Comedy|Crime|Thriller,Get Shorty (1995).jpg
+21,Copycat (1995),Crime|Drama|Mystery,Copycat (1995).jpg
+22,Assassins (1995),Action|Crime|Thriller,Assassins (1995).jpg
+23,Powder (1995),Drama|Fantasy|Mystery,Powder (1995).jpg
+24,Leaving Las Vegas (1995),Drama|Romance,Leaving Las Vegas (1995).jpg
+25,Othello (1995),Drama|Romance,Othello (1995).jpg
+26,Now and Then (1995),Comedy|Drama|Romance,Now and Then (1995).jpg
+27,Persuasion,Drama,Persuasion.jpg
+28,The City of Lost Children (1995),Fantasy|Sci-Fi,The City of Lost Children (1995).jpg
+29,"Yao a yao, yao dao wai po qiao (1995)",Crime|Drama|Romance,"Yao a yao, yao dao wai po qiao (1995).jpg"
+30,Dangerous Minds (1995),Biography|Drama,Dangerous Minds (1995).jpg
+31,Twelve Monkeys (1995),Mystery|Sci-Fi|Thriller,Twelve Monkeys (1995).jpg
+32,Wings of Courage (1995),Adventure|Romance,Wings of Courage (1995).jpg
+33,Babe (1995),Comedy|Drama|Family,Babe (1995).jpg
+34,Carrington (1995),Biography|Drama|Romance,Carrington (1995).jpg
+35,Dead Man Walking (1995),Crime|Drama,Dead Man Walking (1995).jpg
+36,Across the Sea of Time (1995),Adventure|Drama|Family,Across the Sea of Time (1995).jpg
+37,It Takes Two (1995),Comedy|Family|Romance,It Takes Two (1995).jpg
+38,Clueless (1995),Comedy|Romance,Clueless (1995).jpg
+39,"Cry, the Beloved Country (1995)",Drama|Thriller,"Cry, the Beloved Country (1995).jpg"
+40,Richard III (1995),Drama|War,Richard III (1995).jpg
+41,Dead Presidents (1995),Action|Crime|Drama,Dead Presidents (1995).jpg
+42,Restoration (1995),Biography|Drama|History,Restoration (1995).jpg
+43,Mortal Kombat (1995),Action|Adventure|Fantasy,Mortal Kombat (1995).jpg
+44,To Die For (1995),Comedy|Crime|Drama,To Die For (1995).jpg
+45,How to Make an American Quilt (1995),Comedy|Drama|Romance,How to Make an American Quilt (1995).jpg
+46,Se7en (1995),Crime|Drama|Mystery,Se7en (1995).jpg
+47,Pocahontas (1995),Animation|Adventure|Drama,Pocahontas (1995).jpg
+48,When Night Is Falling (1995),Drama|Romance,When Night Is Falling (1995).jpg
+49,The Usual Suspects (1995),Crime|Drama|Mystery,The Usual Suspects (1995).jpg
+50,Mighty Aphrodite (1995),Comedy|Fantasy|Romance,Mighty Aphrodite (1995).jpg
+51,Lamerica (1994),Drama,Lamerica (1994).jpg
+52,Georgia (1995),Drama|Music,Georgia (1995).jpg
+53,Kids of the Round Table (1995),Adventure|Comedy|Family,Kids of the Round Table (1995).jpg
+54,Home for the Holidays (1995),Comedy|Drama|Romance,Home for the Holidays (1995).jpg
+55,Il Postino: The Postman (1994),Biography|Comedy|Drama,Il Postino: The Postman (1994).jpg
+56,Le confessionnal (1995),Drama|Mystery|Thriller,Le confessionnal (1995).jpg
+57,The Indian in the Cupboard (1995),Drama|Family|Fantasy,The Indian in the Cupboard (1995).jpg
+58,Eye for an Eye (1996),Crime|Drama|Thriller,Eye for an Eye (1996).jpg
+59,Mr. Holland's Opus (1995),Drama|Music,Mr. Holland's Opus (1995).jpg
+60,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),Comedy|Crime,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996).jpg
+61,Two If by Sea (1996),Comedy|Crime|Romance,Two If by Sea (1996).jpg
+62,Bio-Dome (1996),Comedy,Bio-Dome (1996).jpg
+63,Lawnmower Man 2: Beyond Cyberspace (1996),Action|Sci-Fi|Thriller,Lawnmower Man 2: Beyond Cyberspace (1996).jpg
+64,Two Bits (1995),Drama,Two Bits (1995).jpg
+65,French Twist (1995),Comedy,French Twist (1995).jpg
+66,Friday (1995),Comedy|Drama,Friday (1995).jpg
+67,From Dusk Till Dawn (1996),Action|Crime|Horror,From Dusk Till Dawn (1996).jpg
+68,Kicking and Screaming (1995),Comedy|Drama|Romance,Kicking and Screaming (1995).jpg
+69,Bed of Roses (1996),Romance|Drama,Bed of Roses (1996).jpg
+70,Big Bully (1996),Comedy|Thriller,Big Bully (1996).jpg
+71,Screamers (1995),Sci-Fi|Thriller,Screamers (1995).jpg
+72,Nico Icon (1995),Documentary|Biography|Music,Nico Icon (1995).jpg
+73,The Crossing Guard (1995),Drama|Thriller,The Crossing Guard (1995).jpg
+74,The Juror (1996),Drama|Thriller,The Juror (1996).jpg
+75,The White Balloon (1995),Drama|Family,The White Balloon (1995).jpg
+76,Things to Do in Denver When You're Dead (1995),Crime|Drama,Things to Do in Denver When You're Dead (1995).jpg
+77,Antonia's Line (1995),Comedy|Drama,Antonia's Line (1995).jpg
+78,Once Upon a Time... When We Were Colored (1995),Drama|Romance,Once Upon a Time... When We Were Colored (1995).jpg
+79,Last Summer in the Hamptons (1995),Comedy|Drama,Last Summer in the Hamptons (1995).jpg
+80,Angels and Insects (1995),Drama|Romance,Angels and Insects (1995).jpg
+81,White Squall (1996),Adventure|Drama,White Squall (1996).jpg
+82,Dunston Checks In (1996),Comedy|Adventure|Family,Dunston Checks In (1996).jpg
+83,Black Sheep (1996),Comedy,Black Sheep (1996).jpg
+84,Nick of Time (1995),Action|Crime|Drama,Nick of Time (1995).jpg
+85,The Journey of August King (1995),Drama,The Journey of August King (1995).jpg
+86,Mary Reilly (1996),Drama|Horror|Romance,Mary Reilly (1996).jpg
+87,Vampire in Brooklyn (1995),Comedy|Fantasy|Horror,Vampire in Brooklyn (1995).jpg
+88,Beautiful Girls (1996),Comedy|Drama|Romance,Beautiful Girls (1996).jpg
+89,Broken Arrow (1996),Action|Crime|Thriller,Broken Arrow (1996).jpg
+90,A Midwinter's Tale (1995),Comedy,A Midwinter's Tale (1995).jpg
+91,La Haine (1995),Crime|Drama,La Haine (1995).jpg
+92,Shopping (1994),Action|Crime|Drama,Shopping (1994).jpg
+93,Heidi Fleiss: Hollywood Madam (1995),Documentary|Biography,Heidi Fleiss: Hollywood Madam (1995).jpg
+94,City Hall (1996),Drama,City Hall (1996).jpg
+95,Bottle Rocket (1996),Comedy|Crime|Drama,Bottle Rocket (1996).jpg
+96,Mr. Wrong (1996),Comedy,Mr. Wrong (1996).jpg
+97,Unforgettable (1996),Drama|Mystery|Sci-Fi,Unforgettable (1996).jpg
+98,Happy Gilmore (1996),Comedy|Family|Sport,Happy Gilmore (1996).jpg
+99,The Bridges of Madison County (1995),Drama|Romance,The Bridges of Madison County (1995).jpg
+100,Nobody Loves Me (1994),Comedy|Drama,Nobody Loves Me (1994).jpg
+101,Muppet Treasure Island (1996),Action|Adventure|Comedy,Muppet Treasure Island (1996).jpg
+102,Catwalk (1995),Documentary,Catwalk (1995).jpg
+103,Headless Body in Topless Bar (1995),Comedy|Crime|Drama,Headless Body in Topless Bar (1995).jpg
+104,Braveheart (1995),Biography|Drama|History,Braveheart (1995).jpg
+105,Rumble in the Bronx (1995),Action|Comedy|Crime,Rumble in the Bronx (1995).jpg
+106,Before and After (1996),Crime|Drama|Mystery,Before and After (1996).jpg
+107,Margaret's Museum (1995),Drama,Margaret's Museum (1995).jpg
+108,Happiness Is in the Field (1995),Comedy,Happiness Is in the Field (1995).jpg
+109,Anne Frank Remembered (1995),Documentary|Biography|War,Anne Frank Remembered (1995).jpg
+110,The Young Poisoner's Handbook (1995),Crime|Drama,The Young Poisoner's Handbook (1995).jpg
+111,If Lucy Fell (1996),Comedy|Romance,If Lucy Fell (1996).jpg
+112,Steal Big Steal Little (1995),Comedy,Steal Big Steal Little (1995).jpg
+113,Race the Sun (1996),Adventure|Comedy|Drama,Race the Sun (1996).jpg
+114,The Boys of St. Vincent (1992),Drama,The Boys of St. Vincent (1992).jpg
+115,Boomerang (1992),Comedy|Drama|Romance,Boomerang (1992).jpg
+116,Chungking Express (1994),Comedy|Drama|Romance,Chungking Express (1994).jpg
+117,The Star Maker (1995),Drama|Romance,The Star Maker (1995).jpg
+118,Flirting with Disaster (1996),Comedy,Flirting with Disaster (1996).jpg
+119,The Neverending Story III (1994),Adventure|Comedy|Family,The Neverending Story III (1994).jpg
+120,The Silences of the Palace (1994),Drama,The Silences of the Palace (1994).jpg
+121,Jupiter's Wife (1995),Documentary|Biography|Mystery,Jupiter's Wife (1995).jpg
+122,Pie in the Sky (1996),Comedy|Romance,Pie in the Sky (1996).jpg
+123,Angela (1995),Drama,Angela (1995).jpg
+124,Frankie Starlight (1995),Drama|Romance|War,Frankie Starlight (1995).jpg
+125,Jade (1995),Crime|Drama|Thriller,Jade (1995).jpg
+126,Sonic Outlaws (1995),Documentary,Sonic Outlaws (1995).jpg
+127,Down Periscope (1996),Comedy,Down Periscope (1996).jpg
+128,From the Journals of Jean Seberg (1995),Documentary|Biography,From the Journals of Jean Seberg (1995).jpg
+129,Man of the Year (1995),Comedy|Romance,Man of the Year (1995).jpg
+130,The Neon Bible (1995),Drama,The Neon Bible (1995).jpg
+131,Up Close & Personal (1996),Drama|Romance,Up Close & Personal (1996).jpg
+132,The Birdcage (1996),Comedy,The Birdcage (1996).jpg
+133,The Brothers McMullen (1995),Comedy|Drama|Romance,The Brothers McMullen (1995).jpg
+134,Bad Boys (1995),Action|Comedy|Crime,Bad Boys (1995).jpg
+135,The Amazing Panda Adventure (1995),Family|Adventure|Drama,The Amazing Panda Adventure (1995).jpg
+136,The Basketball Diaries (1995),Biography|Crime|Drama,The Basketball Diaries (1995).jpg
+137,An Awfully Big Adventure (1995),Comedy|Drama|Romance,An Awfully Big Adventure (1995).jpg
+138,Amateur (1994),Comedy|Crime|Drama,Amateur (1994).jpg
+139,Apollo 13 (1995),Adventure|Drama|History,Apollo 13 (1995).jpg
+140,Rob Roy (1995),Adventure|Biography|History,Rob Roy (1995).jpg
+141,The Addiction (1995),Horror,The Addiction (1995).jpg
+142,Batman Forever (1995),Action|Adventure|Fantasy,Batman Forever (1995).jpg
+143,Belle de Jour (1967),Drama,Belle de Jour (1967).jpg
+144,Beyond Rangoon (1995),Action|Drama,Beyond Rangoon (1995).jpg
+145,Canadian Bacon (1995),Comedy,Canadian Bacon (1995).jpg
+146,Casper (1995),Comedy|Family|Fantasy,Casper (1995).jpg
+147,Clockers (1995),Crime|Drama|Mystery,Clockers (1995).jpg
+148,Congo (1995),Action|Adventure|Mystery,Congo (1995).jpg
